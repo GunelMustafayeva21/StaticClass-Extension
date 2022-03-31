@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\bin\Debug\GetInfoClassTask.exe.config
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\bin\Debug\GetInfoClassTask.exe
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\bin\Debug\GetInfoClassTask.pdb
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\obj\Debug\GetInfoClassTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\obj\Debug\GetInfoClassTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\obj\Debug\GetInfoClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\obj\Debug\GetInfoClassTask.exe
+C:\Users\Hp\source\repos\GetInfoClassTask\GetInfoClassTask\obj\Debug\GetInfoClassTask.pdb

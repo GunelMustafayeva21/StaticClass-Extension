@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\bin\Debug\StaticClassAndExtension.exe.config
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\bin\Debug\StaticClassAndExtension.exe
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\bin\Debug\StaticClassAndExtension.pdb
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\obj\Debug\StaticClassAndExtension.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\obj\Debug\StaticClassAndExtension.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\obj\Debug\StaticClassAndExtension.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\obj\Debug\StaticClassAndExtension.exe
+C:\Users\Hp\source\repos\StaticClassAndExtension\StaticClassAndExtension\obj\Debug\StaticClassAndExtension.pdb
